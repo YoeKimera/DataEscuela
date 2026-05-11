@@ -1,0 +1,17 @@
+{
+  "name": "DataEscuela",
+  "short_name": "JD3",
+  "description": "Gestión Distrital",
+  "start_url": "https://script.google.com/macros/s/AKfycbwjwOtGqd_VlgSrH8u13tswV35lW6f1aCBH2rNZi1dAZXkFuadW_4_7sL7BB3k-_QWfdw/exec",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://YoeKimera.github.io/DataEscuela/dataescuela.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
