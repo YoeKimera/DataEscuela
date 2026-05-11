@@ -5,8 +5,8 @@
   "start_url": "https://script.google.com/macros/s/AKfycbwjwOtGqd_VlgSrH8u13tswV35lW6f1aCBH2rNZi1dAZXkFuadW_4_7sL7BB3k-_QWfdw/exec",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#ffffff",
-  "theme_color": "#1a73e8",
+  "background_color": "#08101d",
+  "theme_color": "#14b8c9",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/YoeKimera/DataEscuela/refs/heads/main/dataescuela.png",
